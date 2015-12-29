@@ -1,7 +1,7 @@
 name: Stonekaiju2
 favicon: null
 layout_spectrum: 0.50957
-typography_spectrum: 1
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
+    - '#0d081c'
     - '#ffffff'
-    - '#c50103'
-    - '#020202'
-    - '#68b27a'
-    - '#ff797a'
+    - '#1e3cf2'
+    - '#b02393'
+    - '#85d1f5'
   brandStrength: 0.3125
   lightness: 0.7207174643408507
   saturation: 0
