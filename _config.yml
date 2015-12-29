@@ -1,6 +1,6 @@
 name: Stonekaiju2
 favicon: null
-layout_spectrum: 0.09207
+layout_spectrum: 1
 typography_spectrum: 0
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#b02393'
     - '#85d1f5'
   brandStrength: 0
-  lightness: 0.7207174643408507
+  lightness: 1
   saturation: 0
-  rhythmicContrast: 0.23528858413919806
+  rhythmicContrast: 1
 purpose: []
