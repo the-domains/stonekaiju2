@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-29T08:13:57.470Z'
-dateModified: '2015-12-29T08:13:46.050Z'
-title: Character Design
+datePublished: '2015-12-29T08:35:35.625Z'
+dateModified: '2015-12-29T08:35:24.880Z'
+title: Stone Kaiju
 author: []
 sourcePath: _posts/2015-12-29-character-design.md
 published: true
@@ -22,6 +22,8 @@ url: character-design/index.html
 _type: Article
 
 ---
+# Stone Kaiju
+
 # Character Design
 
 **Anime, Mecha & Kaiju**
